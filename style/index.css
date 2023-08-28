@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    position: relative;
+    height: 700vh;
+    width: 98.6vw;
+    /* border: 1px solid red; */
+   background-image: linear-gradient(rgba(90, 104, 185, 0.818),rgba(90, 104, 185, 0.789)),url(../img/bg.jpg);
+   background-attachment: fixed;
+}
+.one{
+    height: 28vh;
+    width: 57vh;
+    background-color: black;
+    position: absolute;
+    left: 20vh;
+    top: 10vh;
+    border: 10px solid white;
+    background-image: linear-gradient((rgba(90, 104, 185, 0.818),rgba(90, 104, 185, 0.789)));
+}
+.card>.one>h4{
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 12vh;
+
+}
+.one1{
+    left: 130vh;
+    top: 55vh;
+    
+}
+.one2{
+    top: 100vh ;
+}
+.one3{
+    left: 130vh;
+    top: 145vh;
+}
+.one4{
+    top: 195vh ;
+}
+.one5{
+    left: 130vh;
+    top: 240vh;
+}
+.one6{
+    top: 290vh ;
+}
+.one7{
+    left: 130vh;
+    top: 350vh;
+}
+.one8{
+    top: 400vh ;
+}
+.one9{
+    left: 130vh;
+    top: 450vh;
+}
+.one10{
+    top: 500vh ;
+}
+.one11{
+    left: 130vh;
+    top: 550vh;
+}
+.one12{
+    top: 600vh ;
+}
+.one13{
+    left: 130vh;
+    top: 645vh;
+}
